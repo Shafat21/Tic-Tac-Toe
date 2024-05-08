@@ -21,4 +21,4 @@ To run this game, you will need Python 3.6 or higher. The game uses the Tkinter 
 3. Run the game using Python:
 
    ```bash
-   python tic_tac_toe.py
+   python tictactoe.py
